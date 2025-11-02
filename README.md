@@ -2,7 +2,7 @@
 
 [![Project Demo](https://img.youtube.com/vi/jLo4hehCzAg/maxresdefault.jpg)](https://youtu.be/jLo4hehCzAg)
 
-Welcome to the Secure Portal project! Watch this demo to see it in action.
+_Welcome to the Secure Portal project! Watch this demo to see it in action._
 
 **AI-Powered Secure User Data Collection Portal with Blockchain Integration**
 _Project Overview_
